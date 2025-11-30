@@ -163,7 +163,7 @@ $ techstack --show --green
 <tr>
 <td align="center">
   
-###  ESP32-CAM Advanced Human Tracker  
+### 🔍 ESP32-CAM Advanced Human Tracker  
 <a href="https://github.com/thejanawith/ESP32-CAM-Advanced-Human-Tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejanawith&repo=ESP32-CAM-Advanced-Human-Tracker&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff" />
 </a>
@@ -176,7 +176,7 @@ $ techstack --show --green
 
 <td align="center">
 
-###  Servo11 Robotics Library  
+### 🤖 Servo11 Robotics Library  
 <a href="https://github.com/thejanawith/Servo11-Robotics-Library">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejanawith&repo=Servo11-Robotics-Library&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff" />
 </a>
@@ -190,6 +190,8 @@ $ techstack --show --green
 </table>
 
 </div>
+
+---
 
 
 
