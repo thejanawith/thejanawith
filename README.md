@@ -217,8 +217,7 @@ $ techstack --show --green
 
 <div align="center">
 
-<!-- Replace the src URL below with your WakaTime share SVG link -->
-<img alt="WakaTime Coding Activity" src="https://wakatime.com/share/@thejanawith/00000000-0000-0000-0000-000000000000.svg" width="100%">
+[![My coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=thejanawith&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://wakatime.com/@thejanawith)
 
 </div>
 
