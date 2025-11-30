@@ -158,8 +158,8 @@ $ techstack --show --green
 
 <div align="center">
 
-[![AI Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=thejanadewmina&repo=ai-mini-projects&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/thejanadewmina/ai-mini-projects)
-[![Robotics Projects](https://github-readme-stats.vercel.app/api/pin/?username=thejanadewmina&repo=robotics-projects&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/thejanadewmina/robotics-projects)
+[![AI Mini Projects]([https://github-readme-stats.vercel.app/api/pin/?username=thejanadewmina&repo=ai-mini-projects&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/thejanadewmina/ai-mini-projects](https://github.com/thejanawith/ESP32-CAM-Advanced-Human-Tracker))
+[![Robotics Projects]([https://github-readme-stats.vercel.app/api/pin/?username=thejanadewmina&repo=robotics-projects&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/thejanadewmina/robotics-projects](https://github.com/thejanawith/Servo11-Robotics-Library))
 
 </div>
 
@@ -169,7 +169,7 @@ $ techstack --show --green
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thejanadewmina&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false)](https://github.com/thejanadewmina)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thejanawith&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false)](https://github.com/thejanawith)
 
 </div>
 
@@ -179,11 +179,12 @@ $ techstack --show --green
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/thejanadewmina/thejanadewmina/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/thejanawith/thejanawith/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
+
 
 ## 🟩 CODING ACTIVITY
 
