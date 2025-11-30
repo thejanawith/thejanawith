@@ -154,12 +154,18 @@ $ techstack --show --green
 
 ---
 
+
 ## 🟩 FEATURED REPOSITORIES
 
 <div align="center">
 
-[![AI Mini Projects]([https://github-readme-stats.vercel.app/api/pin/?username=thejanadewmina&repo=ai-mini-projects&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/thejanadewmina/ai-mini-projects](https://github.com/thejanawith/ESP32-CAM-Advanced-Human-Tracker))
-[![Robotics Projects]([https://github-readme-stats.vercel.app/api/pin/?username=thejanadewmina&repo=robotics-projects&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/thejanadewmina/robotics-projects](https://github.com/thejanawith/Servo11-Robotics-Library))
+<a href="https://github.com/thejanawith/ESP32-CAM-Advanced-Human-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejanawith&repo=ESP32-CAM-Advanced-Human-Tracker&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff" />
+</a>
+
+<a href="https://github.com/thejanawith/Servo11-Robotics-Library">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejanawith&repo=Servo11-Robotics-Library&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff" />
+</a>
 
 </div>
 
