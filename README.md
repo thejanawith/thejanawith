@@ -1,26 +1,29 @@
-<!-- ███████████████████████████████████████████ -->
-<!--         🔥 G A N D A B B A   B A N N E R      -->
-<!-- ███████████████████████████████████████████ -->
-
+<!-- 🔥 MATRIX RAIN HEADER -->
 <p align="center">
-<pre>
-██████   █████  ███    ██ ██████   █████  ██████   ██████   █████  
-██   ██ ██   ██ ████   ██ ██   ██ ██   ██ ██   ██ ██    ██ ██   ██ 
-██████  ███████ ██ ██  ██ ██████  ███████ ██████  ██    ██ ███████ 
-██   ██ ██   ██ ██  ██ ██ ██   ██ ██   ██ ██      ██    ██ ██   ██ 
-██████  ██   ██ ██   ████ ██   ██ ██   ██ ██       ██████  ██   ██ 
-</pre>
+  <img src="https://i.imgur.com/z2JqY1W.gif" width="100%" alt="Matrix Rain Header" />
 </p>
 
-<br>
-
-<h1 align="center">⚡ THEJANA DEWMINA | GANDABBA ⚡</h1>
+<!-- 🟩 NAME / TITLE -->
+<h1 align="center">⚡ THEJANA DEWMINA • GANDABBA ⚡</h1>
 <p align="center">
-Computer Scientist • AI & Robotics Innovator • Tech Educator • Founder
+  Computer Scientist • AI & Robotics Innovator • Tech Educator • Founder
 </p>
 
 <p align="center">
   <a href="https://thejana.remoracity.com" target="_blank"><b>🌐 Visit My Website</b></a>
+</p>
+
+---
+
+<!-- 🟦 GANDABBA ASCII BANNER -->
+<p align="center">
+<pre>
+   ██████   █████  ███    ██ ██████   █████  ██████   ██████   █████  
+   ██   ██ ██   ██ ████   ██ ██   ██ ██   ██ ██   ██ ██    ██ ██   ██ 
+   ██████  ███████ ██ ██  ██ ██████  ███████ ██████  ██    ██ ███████ 
+   ██   ██ ██   ██ ██  ██ ██ ██   ██ ██   ██ ██      ██    ██ ██   ██ 
+   ██████  ██   ██ ██   ████ ██   ██ ██   ██ ██       ██████  ██   ██ 
+</pre>
 </p>
 
 ---
@@ -44,18 +47,16 @@ Computer Scientist • AI & Robotics Innovator • Tech Educator • Founder
 # 🟦 Featured Repositories
 
 ### 🚀 AI & Robotics
-- 🔗 [Your best repo here]  
-- 🔗 [Another one here]
+- 🔗 [Add your top project here]  
+- 🔗 [Another repo here]
 
 ### 🛠️ Tools & Apps
-- 🔗 [Your project]  
-- 🔗 [Another project]
-
-(Add repo links when ready)
+- 🔗 [Add project]  
+- 🔗 [Add project]
 
 ---
 
-# 🟨 Socials & Contact — Terminal View
+# 🟨 Socials & Contact — Terminal Style
 
 ```
 ~$ whoami
@@ -70,30 +71,34 @@ Computer Scientist • AI & Robotics Innovator • Tech Educator • Founder
 ~$ institute
 > Shilpa Educational Institute • A Mark Institute
 
-~$ message
-> Teaching 70,000+ students | AI, Robotics, Innovation & Science
+~$ students
+> 70,000+ learners impacted worldwide
 ```
 
 ---
 
 # 🟥 Hacker Quote
-> “The quieter you become, the more you can hear.”  
+
+> “When you can’t crack the code, crack the mindset.”  
 > — Anonymous Hacker
 
 ---
 
 # 🟪 About Me
-I’m **Senarath Rathnayake Thejana Dewmina (GANDABBA)** — an award-winning innovator, educator, and entrepreneur with a strong foundation in:
+
+I’m **Senarath Rathnayake Thejana Dewmina (GANDABBA)** — an award-winning innovator, AI/Robotics educator, and founder of multiple education platforms including **Shilpa.org** and **A Mark Institute**.
+
+Specialized in:
 
 - Artificial Intelligence  
-- Robotics  
-- Physics, Mathematics & Technology  
+- Robotics & Electronics  
+- Physics & Mathematics  
 - Web & Software Development  
-- Science Education (70,000+ students impacted)  
-- Founder of Shilpa.org, Gandabba Foundation, A Mark Institute  
+- Scientific Education for 70,000+ students  
+- Public Speaking & Innovation  
 
 ---
 
 # 🟧 Support My Work
-⭐ Star this profile if you like my projects!
+⭐ Star this profile if you like the projects!
 
