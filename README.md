@@ -159,39 +159,18 @@ $ techstack --show --green
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-  
-### 🔍 ESP32-CAM Advanced Human Tracker  
 <a href="https://github.com/thejanawith/ESP32-CAM-Advanced-Human-Tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejanawith&repo=ESP32-CAM-Advanced-Human-Tracker&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff" />
 </a>
 
-<br>
-<img src="https://img.shields.io/badge/ESP32-CAM-00ff00?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI_Tracking-000000?style=for-the-badge&logo=cuda&logoColor=00ff00">
+<br><br>
 
-</td>
-
-<td align="center">
-
-### 🤖 Servo11 Robotics Library  
 <a href="https://github.com/thejanawith/Servo11-Robotics-Library">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=thejanawith&repo=Servo11-Robotics-Library&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff" />
 </a>
 
-<br>
-<img src="https://img.shields.io/badge/Robotics-00ff00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Servo_Control-Library-000000?style=for-the-badge&logo=github&logoColor=00ff00">
-
-</td>
-</tr>
-</table>
-
 </div>
 
----
 
 ## 🟩 ACTIVITY MATRIX
 
