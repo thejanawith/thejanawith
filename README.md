@@ -217,8 +217,8 @@ $ techstack --show --green
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- Replace the src URL below with your WakaTime share SVG link -->
+<img alt="WakaTime Coding Activity" src="https://wakatime.com/share/@thejanawith/00000000-0000-0000-0000-000000000000.svg" width="100%">
 
 </div>
 
