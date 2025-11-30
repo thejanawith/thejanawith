@@ -193,15 +193,6 @@ $ techstack --show --green
 
 ---
 
-
-## 🟩 ACTIVITY MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thejanawith&theme=react-dark&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%">
-
-</div>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/wave.svg" width="100%">
