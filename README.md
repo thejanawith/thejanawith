@@ -216,7 +216,7 @@ $ techstack --show --green
 ## 🟩 CODING ACTIVITY
 
 <div align="center">
-<img src="https://i.gifer.com/Cwgf.gif" width="600">
+<img src="https://i.gifer.com/V0pW.gif" width="600">
 </div> 
 
 ---
