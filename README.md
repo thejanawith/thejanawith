@@ -204,16 +204,15 @@ $ techstack --show --green
 </div>
 
 ---
-
 ## 🟩 CONTRIBUTION SNAKE 🐍
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thejanawith/thejanawith/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/thejanawith/thejanawith/output/snake-dark.svg" width="100%">
 
 </div>
 
----
+----
 
 
 ## 🟩 CODING ACTIVITY
