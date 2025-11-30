@@ -165,22 +165,6 @@ $ techstack --show --green
 
 ---
 
-## 🟩 GITHUB ANALYTICS — HACKER THEME
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejanadewmina&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff&icon_color=00ff00&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejanadewmina&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff&hide_border=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thejanadewmina&theme=dark&background=0d1117&border=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=thejanadewmina&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ## 🟩 MATRIX ACTIVITY GRAPH
 
 <div align="center">
