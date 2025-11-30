@@ -165,11 +165,11 @@ $ techstack --show --green
 
 ---
 
-## 🟩 MATRIX ACTIVITY GRAPH
+## 🟩 ACTIVITY MATRIX
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thejanawith&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false)](https://github.com/thejanawith)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thejanawith&theme=react-dark&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%">
 
 </div>
 
@@ -179,7 +179,7 @@ $ techstack --show --green
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/thejanawith/thejanawith/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/thejanawith/thejanawith/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
 
