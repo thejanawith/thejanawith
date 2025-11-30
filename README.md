@@ -216,7 +216,7 @@ $ techstack --show --green
 ## 🟩 CODING ACTIVITY
 
 <div align="center">
-<img src="https://i.imgur.com/6kzcH2N.gif" width="450">
+<img src="https://cdn.jsdelivr.net/gh/lottie-files/penguin-animations@master/png/penguin-walking.gif" width="400" alt="Penguin walking loop">
 </div>
 
 ---
