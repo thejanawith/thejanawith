@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- MATRIX RAIN HEADER -->
+<p align="center">
+  <img src="https://i.imgur.com/6h8K4G7.gif" width="100%" />
+</p>
 
-<!--
-**thejanawith/thejanawith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🛡️ THEJANA DEWMINA (GANDABBA)</h1>
+<h3 align="center">💻 Cyber-Inspired Developer | AI & Robotics | CS Engineer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+```diff
++ 20+ Major Projects Completed  
++ Founder of Gandabba Foundation (70,000+ students)  
++ Robotics & AI Innovator | Public Speaker  
++ Creator of shilpa.org & Gandabba Platform  
++ Loves Breaking, Fixing & Building Systems  
