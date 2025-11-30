@@ -15,7 +15,7 @@
 
 ---
 
-## 🟩 ABOUT ME — TERMINAL MODE
+## 🟩 ABOUT ME 
 
 ```bash
 > thejana.with --identity
@@ -45,7 +45,7 @@ Email      : thejanawith@gmail.com
 
 ---
 
-## 🟩 MY TECH STACK — HACKER VIEW
+## 🟩 MY TECH STACK 
 
 ```bash
 $ techstack --show --green
@@ -136,7 +136,7 @@ $ techstack --show --green
 
 ---
 
-## 🟩 PROJECTS DASHBOARD (ASCII STYLE)
+## 🟩 PROJECTS DASHBOARD 
 
 ```bash
 ┌───────────────────────────────────────────────┐
@@ -194,14 +194,14 @@ $ techstack --show --green
 ---
 
 
-
-## 🟩 ACTIVITY MATRIX — Animated Curved Graph
+## 🟩 ACTIVITY MATRIX 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-typing-svg/master/assets/neon.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme-typing-svg/master/assets/waves.svg" width="100%" />
 
 </div>
+
 
 
 ---
@@ -224,7 +224,7 @@ $ techstack --show --green
 
 ---
 
-## 🟩 SOCIALS & CONTACT — TERMINAL VIEW
+## 🟩 SOCIALS & CONTACT 
 
 ```bash
 > contact.info
