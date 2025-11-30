@@ -1,30 +1,261 @@
-<p align="center">
-  <img src="https://i.imgur.com/z2JqY1W.gif" width="100%" alt="Matrix Rain" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=THEJANA+DEWMINA;GANDABBA;AI+SYSTEMS+ARCHITECT;ROBOTICS+ENGINEER;TECH+EDUCATOR;INNOVATION+LEADER" alt="Typing Animation" />
-</h1>
+# 🛡️ THEJANA DEWMINA (GANDABBA)
 
-<p align="center">
-  <img src="https://komarev.com/gh-pages/?username=thejanawith&label=TERMINAL+ACCESSES&color=00ff00&style=flat-square" />
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_7-red?style=flat-square&logo=securityscorecard" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=flat-square&logo=icloud" />
-</p>
+**💻 Computer Scientist | AI & Robotics Innovator | Tech Educator | Founder**
+
+[![Website](https://img.shields.io/badge/🌐_Website-thejana.remoracity.com-00ff00?style=for-the-badge)](https://thejana.remoracity.com)
+[![Email](https://img.shields.io/badge/📧_Email-thejanawith@gmail.com-00ff00?style=for-the-badge)](mailto:thejanawith@gmail.com)
+[![YouTube](https://img.shields.io/badge/📺_YouTube-Gandabba-ff0000?style=for-the-badge&logo=youtube)](https://youtube.com/@gandabba)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Thejana_Dewmina-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thejana-dewmina)
+
+![Profile Views](https://komarev.com/ghpvc/?username=thejanadewmina&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 🖥️ SYSTEM DASHBOARD
+## 🟩 ABOUT ME — TERMINAL MODE
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 🔮 SYSTEM METRICS
 ```bash
-╭─ SYSTEM STATUS @ thejanawith ───────────────
-│  CPU: ██████████ 95% [AI Processing]
-│  RAM: ████████░░ 80% [Neural Networks]
-│  SSD: █████████░ 90% [Code Repositories]
-│  NET: ██████████ 100% [Global Reach]
-╰─────────────────────────────────────────────
+> thejana.with --identity
+---------------------------------------------
+Name       : Senarath Rathnayake Thejana Dewmina
+Known As   : Gandabba
+Age        : 20
+Role       : Educator, Innovator, Developer
+Nationality: Sri Lankan
+Website    : thejana.remoracity.com
+Email      : thejanawith@gmail.com
+---------------------------------------------
+```
+
+```bash
+> thejana.with --summary
+---------------------------------------------
+✓ Founder of Gandabba Foundation (70,000+ students)
+✓ Owner of A Mark Institute – 26 teachers under management
+✓ Robotics & AI Inventor with patented projects
+✓ YouTuber & Tech Educator reaching 70K+ students
+✓ Created shilpa.org to support students during COVID-19
+✓ Public Speaker, Mentor, Science Teacher
+✓ Law enthusiast, traveller & entrepreneur
+---------------------------------------------
+```
+
+---
+
+## 🟩 MY TECH STACK — HACKER VIEW
+
+```bash
+$ techstack --show --green
+
+> Languages:
+  Python, Java, C, C++, JavaScript, PHP
+
+> Web Development:
+  HTML, CSS, Node.js, React, Express, Bootstrap
+
+> AI/ML & Computer Vision:
+  TensorFlow, OpenCV, scikit-learn, numpy, pandas
+
+> Databases:
+  MySQL, Firebase, MongoDB
+
+> Cloud & Hosting:
+  Firebase, Vercel, Netlify, GitHub Pages
+
+> Tools & Platforms:
+  Git, Linux, Docker, Figma, Premiere Pro, Arduino
+
+> Hardware & IoT:
+  Raspberry Pi, ESP32, ESP8266, Sensors, IoT Systems
+```
+
+<div align="center">
+
+### 💻 Tech Stack Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🟩 MY INVENTIONS & INNOVATIONS
+
+```bash
+> innovations.list
+---------------------------------------------
+• Dr. Robot – Patient Monitoring Robot
+• Crop Protector – Autonomous farming system
+• DEWO GP – AI-powered learning platform
+• Smart Energy Saver Systems
+• School Management Automation Tools
+• IoT-based Security Systems
+---------------------------------------------
+```
+
+---
+
+## 🟩 MY EDUCATION
+
+```bash
+> education.display
+---------------------------------------------
+• O/L 2021: A5 B3 C1
+  - A in English, Maths, Science, ICT, Buddhism
+
+• A/L Physical Science Stream:
+  - Physics (B)
+  - Chemistry (C)
+  - Combined Maths (S)
+
+• Subjects: Maths, Physics, ICT, Law (personal study)
+---------------------------------------------
+```
+
+---
+
+## 🟩 PROJECTS DASHBOARD (ASCII STYLE)
+
+```bash
+┌───────────────────────────────────────────────┐
+│              ACTIVE PROJECTS                  │
+├───────────────────────────────────────────────┤
+│ • AI Mini Projects (ML + Computer Vision)     │
+│ • Robotics Projects (IoT + Automation)        │
+│ • Gandabba Learning Platform                  │
+│ • shilpa.org Student Portal                   │
+│ • Dr. Robot - Healthcare Automation           │
+│ • Crop Protector - AgriTech Solution          │
+│ • A Mark Educational Tools                    │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+## 🟩 FEATURED REPOSITORIES
+
+<div align="center">
+
+[![AI Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=thejanadewmina&repo=ai-mini-projects&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/thejanadewmina/ai-mini-projects)
+[![Robotics Projects](https://github-readme-stats.vercel.app/api/pin/?username=thejanadewmina&repo=robotics-projects&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/thejanadewmina/robotics-projects)
+
+</div>
+
+---
+
+## 🟩 GITHUB ANALYTICS — HACKER THEME
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejanadewmina&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff&icon_color=00ff00&hide_border=false&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejanadewmina&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thejanadewmina&theme=dark&background=0d1117&border=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=thejanadewmina&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 🟩 MATRIX ACTIVITY GRAPH
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thejanadewmina&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false)](https://github.com/thejanadewmina)
+
+</div>
+
+---
+
+## 🟩 CONTRIBUTION SNAKE 🐍
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/thejanadewmina/thejanadewmina/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🟩 CODING ACTIVITY
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🟩 SOCIALS & CONTACT — TERMINAL VIEW
+
+```bash
+> contact.info
+---------------------------------------------
+Website  : thejana.remoracity.com
+Email    : thejanawith@gmail.com
+YouTube  : youtube.com/@gandabba
+LinkedIn : linkedin.com/in/thejana-dewmina
+Telegram : Admin of multiple student groups
+---------------------------------------------
+```
+
+<div align="center">
+
+### 🌐 Connect with me:
+
+[![Website](https://img.shields.io/badge/Website-00ff00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thejana.remoracity.com)
+[![Email](https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejanawith@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gandabba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thejana-dewmina)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gandabba)
+
+</div>
+
+---
+
+## 🟩 HACKER QUOTE
+
+```diff
+- "The ones who see the invisible can do the impossible."
++ Building the future, one line of code at a time 🚀
+```
+
+---
+
+<div align="center">
+
+### 💚 Support My Work
+
+If you find my projects helpful, consider giving them a ⭐️ 
+
+**"Innovation distinguishes between a leader and a follower." - Steve Jobs**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling)
+
+</div>
