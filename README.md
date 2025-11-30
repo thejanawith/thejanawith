@@ -216,10 +216,9 @@ $ techstack --show --green
 ## 🟩 CODING ACTIVITY
 
 <div align="center">
-
-[![My coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=thejanawith&theme=github_dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff)](https://wakatime.com/@thejanawith)
-
+<img src="https://i.imgur.com/2Q6Fq9Z.gif" width="600">
 </div>
+
 
 ---
 
